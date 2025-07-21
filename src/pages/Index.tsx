@@ -20,8 +20,8 @@ const Index = () => {
   return (
     <div className="relative">
       <BirthdayEnvelope 
-        recipientName="Amazing Person"
-        message="Happy Birthday! 🎉 This exclusive surprise was created just for you. Wishing you endless joy, unforgettable moments, and all the happiness your heart can hold. You are truly special and deserve to be celebrated today and always! 💖✨"
+        recipientName="MOM"
+        message="Happy Birthday! Mom 🎉 This exclusive surprise was created just for you. Wishing you endless joy, unforgettable moments, and all the happiness your heart can hold. You are truly special and deserve to be celebrated today and always! 💖✨"
         soundEnabled={soundEnabled}
         musicPlaying={musicPlaying}
         customSongFile={customSongFile}
